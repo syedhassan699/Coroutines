@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coroutines</string>
+    <string name="count">Count</string>
+    <string name="download">Download</string>
+    <string name="process_2">Process 2</string>
+    <string name="_0">0</string>
+</resources>
